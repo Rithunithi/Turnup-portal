@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeYnBfwDZdPR5Zkx4zgjP2nJrilaMOvhsu8OVkuMb28CWJtctsfmd/b0ywNF0ihyXG0K7I0s/YvKWprYuxpUVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell Latitude\\source\\repos\\Turn Up portal\\Turn Up portal\\Turn Up portal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\selenium.support\\4.15.0\\selenium.support.4.15.0.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\selenium.webdriver.chromedriver\\119.0.6045.10500\\selenium.webdriver.chromedriver.119.0.6045.10500.nupkg.sha512",
+    "C:\\Users\\Dell Latitude\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
