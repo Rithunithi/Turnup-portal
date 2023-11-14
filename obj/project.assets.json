@@ -273,9 +273,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell Latitude\\source\\repos\\Turn Up portal\\Turn Up portal\\Turn Up portal.csproj",
-      "projectName": "Turn Up portal",
-      "projectPath": "C:\\Users\\Dell Latitude\\source\\repos\\Turn Up portal\\Turn Up portal\\Turn Up portal.csproj",
+      "projectUniqueName": "C:\\Users\\Dell Latitude\\source\\repos\\Turn Up portal\\Turn Up portal\\TurnUpportal.csproj",
+      "projectName": "TurnUpportal",
+      "projectPath": "C:\\Users\\Dell Latitude\\source\\repos\\Turn Up portal\\Turn Up portal\\TurnUpportal.csproj",
       "packagesPath": "C:\\Users\\Dell Latitude\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dell Latitude\\source\\repos\\Turn Up portal\\Turn Up portal\\obj\\",
       "projectStyle": "PackageReference",
